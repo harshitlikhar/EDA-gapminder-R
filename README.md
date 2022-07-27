@@ -1,6 +1,6 @@
 # EDA-gapminder-R
  
-mini-project-1: Exploratory Data Analysis course
+mini-project-1: Exploratory Data Analysis Course @Spring
 By:
 
 - Keshav Likhar
